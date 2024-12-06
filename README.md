@@ -3,7 +3,7 @@
 
  **Skills:** *C#, Blazor, HTML, CSS*
 
-- 🔭 I’m currently working at [Metam](https://www.metam.tech/en) [Software Developer] 
+- 🔭 I’m currently working as a Software Developer 
 - 🌱 I’m currently learning .NET, React, JS. 
 - 📤 How to reach me? [Oumaima Chmissi | LinkedIn](https://www.linkedin.com/in/oumaima-chmissi/) or [oumaimachmissi52@gmail.com](oumaimachmissi52@gmail.com)
 
